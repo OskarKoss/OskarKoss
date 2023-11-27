@@ -33,7 +33,10 @@ Chętnie przyjmę opinie, sugestie i pomoc w rozwoju moich projektów. Skontaktu
 
 
 
-Dziękuję za odwiedzenie mojego repozytorium! Mam nadzieję, że znajdziesz tutaj coś interesującego. 
+Dziękuję za odwiedzenie mojego repozytorium! Mam nadzieję, że znajdziesz tutaj coś interesującego.
+Dane kontaktowe:
+Discord: osk4rlom.
+E-mail: oskar.koss727@gmail.com
 
 
 
