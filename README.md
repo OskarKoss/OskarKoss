@@ -12,6 +12,6 @@ Python_Scripts: Uruchom skrypty za pomocą interpretera Pythona, na przykład: p
 
 HomeAssistant_Config: Zaimportuj pliki konfiguracyjne do swojego Home Assistant.
 
-Kontakt Chętnie przyjmę opinie, sugestie i pomoc w rozwoju moich projektów. Skontaktuj się ze mną poprzez e-mail(oskar.koss727@gmail.com) lub Discorda(osk4rlom.).
+Kontakt Chętnie przyjmę opinie, sugestie i pomoc w rozwoju moich projektów. Skontaktuj się ze mną poprzez e-mail(oskar.koss727@gmail.com) lub Discorda zamieszczonego w linkach.
 
 Dziękuję za odwiedzenie mojego repozytorium! Mam nadzieję, że znajdziesz tutaj coś interesującego. 
